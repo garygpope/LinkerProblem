@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "LinkerProblem.Droid", "LinkerProblem\LinkerProblem.Droid.fsproj", "{70AFD0B6-1C99-4B67-89DC-CEAC9AA3C23B}"
-EndProject
 Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "LinkerProblem.Core", "LinkerProblem.Core\LinkerProblem.Core.fsproj", "{686D59CA-408D-491B-A3ED-DF3F763FDA54}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "LinkerProblem.Droid", "LinkerProblem.Droid\LinkerProblem.Droid.fsproj", "{70AFD0B6-1C99-4B67-89DC-CEAC9AA3C23B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{70AFD0B6-1C99-4B67-89DC-CEAC9AA3C23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{70AFD0B6-1C99-4B67-89DC-CEAC9AA3C23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{70AFD0B6-1C99-4B67-89DC-CEAC9AA3C23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{70AFD0B6-1C99-4B67-89DC-CEAC9AA3C23B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{686D59CA-408D-491B-A3ED-DF3F763FDA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{686D59CA-408D-491B-A3ED-DF3F763FDA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{686D59CA-408D-491B-A3ED-DF3F763FDA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{686D59CA-408D-491B-A3ED-DF3F763FDA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70AFD0B6-1C99-4B67-89DC-CEAC9AA3C23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AFD0B6-1C99-4B67-89DC-CEAC9AA3C23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AFD0B6-1C99-4B67-89DC-CEAC9AA3C23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AFD0B6-1C99-4B67-89DC-CEAC9AA3C23B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
