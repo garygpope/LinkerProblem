@@ -1,0 +1,2 @@
+source https://www.nuget.org/api/v2
+nuget Xamarin.Android.Support.v7.AppCompat 26.0.2-beta1 beta
