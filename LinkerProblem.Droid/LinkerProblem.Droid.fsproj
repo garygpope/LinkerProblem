@@ -28,6 +28,7 @@
     <PlatformTarget>
     </PlatformTarget>
     <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
+    <AndroidLinkSkip>Microsoft.Identity.Client</AndroidLinkSkip>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
