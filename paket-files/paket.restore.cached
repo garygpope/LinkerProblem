@@ -1,6 +1,6 @@
 NUGET
   remote: https://www.nuget.org/api/v2
-    FSharp.Core (4.0.0.1)
+    FSharp.Core (4.0.0.1) - restriction: >= monoandroid7.1
     Microsoft.Identity.Client (1.1.0-preview)
       NETStandard.Library (>= 1.6.1) - restriction: || (&& (< monoandroid7.0) (< net45) (>= netstandard1.3) (< win81) (< xamarinios)) (&& (< net45) (>= netstandard1.1) (< netstandard1.3) (< win81))
       System.Runtime.Serialization.Json (>= 4.3) - restriction: || (&& (< monoandroid7.0) (< net45) (>= netstandard1.3) (< win81) (< xamarinios)) (&& (< net45) (>= netstandard1.1) (< netstandard1.3) (< win81))

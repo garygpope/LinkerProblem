@@ -1,3 +1,6 @@
 source https://www.nuget.org/api/v2
-nuget Xamarin.Android.Support.v7.AppCompat 26.0.2-beta1 beta
-nuget Microsoft.Identity.Client
+nuget FSharp.Core 4.0.0.1
+nuget Xamarin.Android.FSharp.ResourceProvider restriction: >= monoandroid7.1
+nuget Xamarin.Android.Support.v4 restriction: >= monoandroid7.1
+nuget Xamarin.Android.Support.v7.AppCompat >= 23.3 restriction: >= monoandroid7.1
+nuget Microsoft.Identity.Client 1.1.0-preview preview

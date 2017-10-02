@@ -1,6 +1,11 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{04D56ABE-CB5C-4834-9995-07E75E937B22}"
+	ProjectSection(SolutionItems) = preProject
+		paket.dependencies = paket.dependencies
+	EndProjectSection
+EndProject
 Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "LinkerProblem.Core", "LinkerProblem.Core\LinkerProblem.Core.fsproj", "{686D59CA-408D-491B-A3ED-DF3F763FDA54}"
 EndProject
 Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "LinkerProblem.Droid", "LinkerProblem.Droid\LinkerProblem.Droid.fsproj", "{70AFD0B6-1C99-4B67-89DC-CEAC9AA3C23B}"
